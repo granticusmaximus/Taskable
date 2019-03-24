@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskable", "Taskable\Taskable.csproj", "{98C35B15-E2EB-4C32-A4EB-66062F974610}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskable.App", "Taskable\Taskable.App.csproj", "{98C35B15-E2EB-4C32-A4EB-66062F974610}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskable.React", "Taskable.React\Taskable.React.csproj", "{67909671-122D-4CF4-8435-574A2CDD086A}"
 EndProject
