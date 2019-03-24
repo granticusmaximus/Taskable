@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskable", "Taskable\Taskable.csproj", "{98C35B15-E2EB-4C32-A4EB-66062F974610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskable.React", "Taskable.React\Taskable.React.csproj", "{67909671-122D-4CF4-8435-574A2CDD086A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C35B15-E2EB-4C32-A4EB-66062F974610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C35B15-E2EB-4C32-A4EB-66062F974610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C35B15-E2EB-4C32-A4EB-66062F974610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C35B15-E2EB-4C32-A4EB-66062F974610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67909671-122D-4CF4-8435-574A2CDD086A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67909671-122D-4CF4-8435-574A2CDD086A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67909671-122D-4CF4-8435-574A2CDD086A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67909671-122D-4CF4-8435-574A2CDD086A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
